@@ -6,7 +6,7 @@ function Home() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        <p className='test'>
           Edit <code>src/App.jsx</code> and save to reload.
         </p>
         <a
